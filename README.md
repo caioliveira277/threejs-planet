@@ -47,7 +47,7 @@ Os scripts abaixo executam a compilação do projeto.
 ---
 ## Links: 🌐
 ***Projeto online GitHub Pages:***<br>
-[<ins>Link do projeto</ins>](https://caioliveira277.github.io/threejsPlanet/)
+[<ins>Link do projeto</ins>](https://caioliveira277.github.io/threejs-planet/)
 
 ***Curso Three.js 3D Web Visualisations:***<br>
 [<ins>Link do curso</ins>](https://www.udemy.com/course/hands-on-threejs-3d-web-visualisations/)
